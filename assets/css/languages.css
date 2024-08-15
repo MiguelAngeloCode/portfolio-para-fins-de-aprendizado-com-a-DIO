@@ -19,7 +19,7 @@
     display: inline-block;
     width: .75rem;
     height: .75rem;
-    background-image: url('/assets/imagens/check.svg');
+    background-image: url('/../imagens/check.svg');
     background-repeat: no-repeat;
     background-size: contain;
     margin-right: .5rem;
