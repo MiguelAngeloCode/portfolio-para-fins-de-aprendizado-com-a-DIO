@@ -37,3 +37,12 @@ font-weight: 800;
 .portfolio a:hover{
     text-decoration: underline;
 }
+@media only screen and (min-width:250px) and (max-width: 400px) {
+    .titulo {
+        max-width: 60vw;
+    }
+.portfolio a {
+    font-size: .6rem;
+    font-weight: 1000;
+}
+}
