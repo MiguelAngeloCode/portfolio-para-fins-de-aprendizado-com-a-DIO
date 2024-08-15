@@ -36,16 +36,16 @@ font-family:'Montserrat';
     margin-right: .5rem;
 }
 .information .job::before{
-background-image: url('/../imagens/Group.svg');
+background-image: url('../imagens/Group.svg');
 }
 .information .location::before{
-    background-image: url('/../imagens/Vector.svg');
+    background-image: url('../imagens/Vector.svg');
 }
 .information .phone::before{
-    background-image: url('/../imagens/Vector\ \(1\).svg');
+    background-image: url('../imagens/Vector\ \(1\).svg');
 }
 .information .email::before{
-    background-image: url('/../imagens/Group\ \(1\).svg');
+    background-image: url('../imagens/Group\ \(1\).svg');
 }
 .acordeon{
     border:1px solid #fff;
@@ -73,7 +73,7 @@ display: inline-block;
 content: '';
 width: 1.5rem;
 height: 1.5rem;
-background-image: url('/../imagens/flecha.svg');
+background-image: url('../imagens/flecha.svg');
 background-repeat: no-repeat;
 background-size: contain;
 transition: .25s;

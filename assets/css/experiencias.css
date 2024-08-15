@@ -27,7 +27,7 @@ font-weight: 800;
     display: inline-block;
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url('/../imagens/date.svg');
+    background-image: url('../imagens/date.svg');
     width: 1rem;
     height: 1rem;
     align-items: center;
